@@ -1,6 +1,14 @@
-body{
-
-text-align: center;
-
+body {
+  background-color: #fff;
+  font-family: sans-serif;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
+p {
+  margin: 0 10px;
+  font-size: 16px;
+}
